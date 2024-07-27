@@ -28,7 +28,7 @@ export default {
   components: {
     Player,
     MHeader: Header,
-    Tab
+    Tab,
   },
   computed: {
     viewStyle () {
