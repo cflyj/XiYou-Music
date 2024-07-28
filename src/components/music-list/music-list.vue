@@ -58,7 +58,7 @@ import { BlockList } from 'net'
 import { mapActions ,mapState} from 'vuex'
 
 const RESERVED_HEIGHT = 40
-
+// 
 export default {
   name:'MusicList',
   components:{
