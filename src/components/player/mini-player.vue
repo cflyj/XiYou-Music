@@ -93,6 +93,7 @@ export default {
         })
         
 
+        
         function showNormalPlayer (){
             store.commit('setFullScreen',true)
         }
