@@ -98,6 +98,7 @@ export default {
             store.commit('setFullScreen',true)
         }
 
+
         function showPlaylist(){
           playlistRef.value.show()
         }
@@ -122,6 +123,7 @@ export default {
         }
     }
 
+    // ok
 }
 </script>
 
